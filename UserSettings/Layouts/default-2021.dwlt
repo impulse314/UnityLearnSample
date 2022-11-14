@@ -15,7 +15,11 @@ MonoBehaviour:
   m_PixelRect:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 322.4
+=======
+    x: 177.6
+>>>>>>> parent of 97882b2 (???)
 =======
     x: 177.6
 >>>>>>> parent of 97882b2 (???)
@@ -53,7 +57,11 @@ MonoBehaviour:
   m_MaxSize: {x: 16192, y: 12117}
   vertical: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 98
+=======
+  controlID: 92
+>>>>>>> parent of 97882b2 (???)
 =======
   controlID: 92
 >>>>>>> parent of 97882b2 (???)
@@ -232,7 +240,11 @@ MonoBehaviour:
   m_MaxSize: {x: 8096, y: 12117}
   vertical: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 88
+=======
+  controlID: 98
+>>>>>>> parent of 97882b2 (???)
 =======
   controlID: 98
 >>>>>>> parent of 97882b2 (???)
@@ -261,7 +273,11 @@ MonoBehaviour:
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 89
+=======
+  controlID: 99
+>>>>>>> parent of 97882b2 (???)
 =======
   controlID: 99
 >>>>>>> parent of 97882b2 (???)
@@ -313,9 +329,15 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 322.4
     y: 525.60004
     width: 920.6
+=======
+    x: 177.6
+    y: 525.60004
+    width: 919.8
+>>>>>>> parent of 97882b2 (???)
 =======
     x: 177.6
     y: 525.60004
@@ -360,6 +382,9 @@ MonoBehaviour:
     m_SelectedIDs: e64c0000
     m_LastClickedID: 19686
     m_ExpandedIDs: 00000000d44c0000d64c0000d84c000000ca9a3bffffff7f
+<<<<<<< HEAD
+>>>>>>> parent of 97882b2 (???)
+=======
 >>>>>>> parent of 97882b2 (???)
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -389,7 +414,11 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 000000004a4c00004c4c00004e4c0000
+=======
+    m_ExpandedIDs: 00000000d44c0000d64c0000d84c0000
+>>>>>>> parent of 97882b2 (???)
 =======
     m_ExpandedIDs: 00000000d44c0000d64c0000d84c0000
 >>>>>>> parent of 97882b2 (???)
@@ -418,15 +447,21 @@ MonoBehaviour:
       m_ResourceFile: 
   m_ListAreaState:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_SelectedInstanceIDs: 5a4c0000
     m_LastClickedInstanceID: 19546
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000
 =======
+=======
+>>>>>>> parent of 97882b2 (???)
     m_SelectedInstanceIDs: faf7ffff
     m_LastClickedInstanceID: -2054
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c623000000000000
+<<<<<<< HEAD
+>>>>>>> parent of 97882b2 (???)
+=======
 >>>>>>> parent of 97882b2 (???)
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -444,7 +479,11 @@ MonoBehaviour:
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_ClientGUIView: {fileID: 0}
+=======
+      m_ClientGUIView: {fileID: 11}
+>>>>>>> parent of 97882b2 (???)
 =======
       m_ClientGUIView: {fileID: 11}
 >>>>>>> parent of 97882b2 (???)
@@ -480,9 +519,15 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 1244
     y: 132
     width: 283.80005
+=======
+    x: 1098.4
+    y: 132
+    width: 284.60004
+>>>>>>> parent of 97882b2 (???)
 =======
     x: 1098.4
     y: 132
@@ -501,7 +546,11 @@ MonoBehaviour:
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LastVerticalScrollValue: 0
+=======
+  m_LastVerticalScrollValue: 321.59998
+>>>>>>> parent of 97882b2 (???)
 =======
   m_LastVerticalScrollValue: 321.59998
 >>>>>>> parent of 97882b2 (???)
@@ -531,7 +580,11 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 322.4
+=======
+    x: 177.6
+>>>>>>> parent of 97882b2 (???)
 =======
     x: 177.6
 >>>>>>> parent of 97882b2 (???)
@@ -546,9 +599,15 @@ MonoBehaviour:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_SelectedIDs: 5a4c0000
       m_LastClickedID: 0
       m_ExpandedIDs: 2cfbffff
+=======
+      m_SelectedIDs: faf7ffff
+      m_LastClickedID: -2054
+      m_ExpandedIDs: 32fbffff
+>>>>>>> parent of 97882b2 (???)
 =======
       m_SelectedIDs: faf7ffff
       m_LastClickedID: -2054
@@ -598,9 +657,15 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 550.4
     y: 132
     width: 691.6
+=======
+    x: 405.6
+    y: 132
+    width: 690.8
+>>>>>>> parent of 97882b2 (???)
 =======
     x: 405.6
     y: 132
@@ -809,9 +874,15 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_Position:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: 28.112377, y: -0.49687958, z: 7.021435}
     speed: 2
     m_Value: {x: 0, y: 0, z: 0}
+=======
+    m_Target: {x: -7.259595, y: 0.89214194, z: 6.6349545}
+    speed: 2
+    m_Value: {x: -7.259595, y: 0.89214194, z: 6.6349545}
+>>>>>>> parent of 97882b2 (???)
 =======
     m_Target: {x: -7.259595, y: 0.89214194, z: 6.6349545}
     speed: 2
@@ -864,6 +935,7 @@ MonoBehaviour:
     m_gridOpacity: 0.5
   m_Rotation:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: 0.011474875, y: 0.96839243, z: -0.24501298, w: 0.04535492}
     speed: 2
     m_Value: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
@@ -872,6 +944,8 @@ MonoBehaviour:
     speed: 2
     m_Value: 10
 =======
+=======
+>>>>>>> parent of 97882b2 (???)
     m_Target: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
     speed: 2
     m_Value: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
@@ -879,6 +953,9 @@ MonoBehaviour:
     m_Target: 0.6992776
     speed: 2
     m_Value: 0.6992776
+<<<<<<< HEAD
+>>>>>>> parent of 97882b2 (???)
+=======
 >>>>>>> parent of 97882b2 (???)
   m_Ortho:
     m_Target: 0
@@ -925,11 +1002,14 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 507
     y: 94
     width: 1532
     height: 790
 =======
+=======
+>>>>>>> parent of 97882b2 (???)
     x: 405.6
     y: 132
     width: 690.8
@@ -946,7 +1026,11 @@ MonoBehaviour:
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_TargetSize: {x: 1532, y: 769}
+=======
+  m_TargetSize: {x: 690.8, y: 351.6}
+>>>>>>> parent of 97882b2 (???)
 =======
   m_TargetSize: {x: 690.8, y: 351.6}
 >>>>>>> parent of 97882b2 (???)
@@ -965,11 +1049,14 @@ MonoBehaviour:
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_HBaseRangeMin: -612.8
     m_HBaseRangeMax: 612.8
     m_VBaseRangeMin: -307.6
     m_VBaseRangeMax: 307.6
 =======
+=======
+>>>>>>> parent of 97882b2 (???)
     m_HBaseRangeMin: -276.32
     m_HBaseRangeMax: 276.32
     m_VBaseRangeMin: -140.64
@@ -993,15 +1080,21 @@ MonoBehaviour:
       x: 0
       y: 21
 <<<<<<< HEAD
+<<<<<<< HEAD
       width: 1532
       height: 769
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 766, y: 384.5}
 =======
+=======
+>>>>>>> parent of 97882b2 (???)
       width: 690.8
       height: 351.6
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 345.4, y: 175.8}
+<<<<<<< HEAD
+>>>>>>> parent of 97882b2 (???)
+=======
 >>>>>>> parent of 97882b2 (???)
     m_MarginLeft: 0
     m_MarginRight: 0
@@ -1009,6 +1102,7 @@ MonoBehaviour:
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
       x: -766
       y: -384.5
@@ -1018,6 +1112,8 @@ MonoBehaviour:
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 1915, y: 987.5}
 =======
+=======
+>>>>>>> parent of 97882b2 (???)
       x: -345.4
       y: -175.8
       width: 690.8
@@ -1025,6 +1121,9 @@ MonoBehaviour:
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 863.5, y: 465.75}
+<<<<<<< HEAD
+>>>>>>> parent of 97882b2 (???)
+=======
 >>>>>>> parent of 97882b2 (???)
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
@@ -1052,9 +1151,15 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 322.4
     y: 525.60004
     width: 920.6
+=======
+    x: 177.6
+    y: 525.60004
+    width: 919.8
+>>>>>>> parent of 97882b2 (???)
 =======
     x: 177.6
     y: 525.60004
