@@ -6,10 +6,6 @@ using UnityEngine;
 public class DestroyModule : MonoBehaviour
 {
     [Header("Модуль")]
-<<<<<<< Updated upstream
-=======
-    
->>>>>>> Stashed changes
     [SerializeField]
     private bool debug;
     [SerializeField]
@@ -24,12 +20,8 @@ public class DestroyModule : MonoBehaviour
     {
         myTransform = transform;
     }
-<<<<<<< Updated upstream
 
     [ContextMenu("Начать удаление объектов")]
-=======
-    [ContextMenu("Активировать модуль")]
->>>>>>> Stashed changes
     public void ActivateModule()
     {
         StartCoroutine(DestroyRandomChildObjectCoroutine());
