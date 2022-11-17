@@ -9,11 +9,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 174612863130755625}
-  - component: {fileID: 174612863130755624}
   - component: {fileID: 174612863130755630}
   - component: {fileID: 174612863130755631}
   - component: {fileID: 174612863130755628}
-  - component: {fileID: -6627199958897424540}
+  - component: {fileID: 43615724655823259}
   m_Layer: 0
   m_Name: Interactive box
   m_TagString: Untagged
@@ -36,19 +35,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &174612863130755624
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 174612863130755629}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 48cfda8ba1d4c6448993138e1afb901b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  currentValue: 0
 --- !u!33 &174612863130755630
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -112,7 +98,7 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &-6627199958897424540
+--- !u!114 &43615724655823259
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -121,7 +107,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 174612863130755629}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 439f1a74978eb8f41bf413412f7c2457, type: 3}
+  m_Script: {fileID: 11500000, guid: b6cd6251cd4cc8240920510099ea53f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   obstacleLayerMask:
